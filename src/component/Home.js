@@ -35,8 +35,8 @@ function Home() {
         <table className="table">
   <thead>
     <tr>
-      <th scope="col">YEAR</th>
       <th scope="col">TITLE</th>
+      <th scope="col">YEAR</th>
       <th scope="col">DESCRIPTION</th>
     </tr>
   </thead>
